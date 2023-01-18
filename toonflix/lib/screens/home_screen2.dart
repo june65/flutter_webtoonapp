@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:toonflix/api_service.dart';
-import 'package:toonflix/webtoon.dart';
+import 'package:toonflix/models/webtoon.dart';
 import 'package:toonflix/widgets/webtoon_widget.dart';
 
 class Homescreen2 extends StatelessWidget {
